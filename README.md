@@ -77,4 +77,4 @@ Thanks for visiting! 🚀
 ### ✅ Achievements & Interests
 - 🧑‍🏫 Mentored 1600+ underrepresented students  
 - 🧑‍💻 Regularly solving problems on LeetCode and building passion projects  
-- 🚀 Focused on growing into a software engineer who builds things that matte
+- 🚀 Focused on growing into a software engineer who builds things that matter
