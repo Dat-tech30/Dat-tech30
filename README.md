@@ -1,12 +1,35 @@
-<h1 align="center">Hi 👋, I'm Dat!</h1>
-<h3 align="center">A passionate and aspiring Software Engineer</h3>
+## 👋 Hi, I'm Dat Phan
 
-- 🔭 I’m currently working on **my resume and educational goals!**
+🎓 Aspiring Software Engineer | 📍 Based in Washington State  
+💡 I’m passionate about using tech to make a positive impact — especially in education, equity, and accessibility.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/datphanwa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="datphanwa/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 🛠️ What I Do
+- 👨‍💻 Currently studying Computer Science at Tacoma Community College  
+- 🚢 Research Assistant @ University of Washington – working on autonomous ferry simulation  
+- 🤖 Built AI tools to solve real-world problems (chatbots, scheduling assistants, etc.)  
+- 💬 Mentor @ Titan PULSE – guided 400+ students from underrepresented backgrounds  
+- 📚 Section Leader @ Stanford Code in Place – taught Python fundamentals  
+- 🧠 Learning daily through LeetCode, open source, and side projects
+
+---
+
+### 🌱 I’m Learning About
+- Advanced Python 
+- Large Language Models (LLMs) & AI Accuracy  
+- Open source collaboration (ONNX, Keploy, and etc.)  
+- Systems thinking and simulation modeling
+
+---
+
+### 🔗 Connect with Me
+- 🧠 [LinkedIn](https://www.linkedin.com/in/dat-phan-01)  
+- 📨 Email: phandinhd@outlook.com  
+- 💼 Portfolio & resume available upon request
+
+---
+
+> “Mistakes don't define who you are”
+
+Thanks for visiting! 🚀
