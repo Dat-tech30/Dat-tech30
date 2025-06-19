@@ -55,3 +55,26 @@ Thanks for visiting! 🚀
 </td>
 </tr>
 </table>
+
+
+---
+
+### ✅ Technical Skills
+- Python, Java, HTML/CSS  
+- Git, GitHub, VSCode, Google Collab
+- Simulation tools (MATLAB → Python), APIs  
+- AI/ML basics (LLMs, chatbot building)
+
+### ✅ Notable Projects
+- 🤖 AI Chatbot Scheduler (Google AI Studio)  
+- 🚢 Autonomous Ferry Simulation (UW Research)  
+- 🧠 Python Game Platoformer (Computing For All)  
+- 💰 Financial Literacy Web App (TYE Program)    
+- 🧪 ONNX Runtime Contributions (Microsoft Internship)  
+- 📚 Library Sharing Platform (Open Source Book Hub @ Computing For All)  
+- 💼 Workshops & Outreach (Microsoft & Google Guest Speaker Event)
+
+### ✅ Achievements & Interests
+- 🧑‍🏫 Mentored 1600+ underrepresented students  
+- 🧑‍💻 Regularly solving problems on LeetCode and building passion projects  
+- 🚀 Focused on growing into a software engineer who builds things that matte
